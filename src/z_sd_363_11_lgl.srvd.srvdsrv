@@ -1,0 +1,5 @@
+@EndUserText.label: 'Custom Entity'
+define service Z_sd_363_11_lgl {
+  expose z363_11_lgl as Travel;
+  expose z363_01_lgl as AnotherEntity;
+}
